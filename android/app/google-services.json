@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "900126030055",
+    "project_id": "acm-ioit",
+    "storage_bucket": "acm-ioit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900126030055:android:c0451f127bda9876f70a42",
+        "android_client_info": {
+          "package_name": "com.example.acm_ioit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ9m6uKnxRP0RDjPgN6-pNE1UggDNVJ28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900126030055:android:500ca7a4e425170ff70a42",
+        "android_client_info": {
+          "package_name": "com.example.qr_scanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ9m6uKnxRP0RDjPgN6-pNE1UggDNVJ28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
